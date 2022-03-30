@@ -4,7 +4,7 @@
 #
 #    pip-compile
 #
-numpy==1.18.5
+numpy==1.21.0
 pandas==1.0.4
 seaborn==0.10.1
 scikit-learn>=0.18
